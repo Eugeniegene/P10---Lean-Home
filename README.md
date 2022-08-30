@@ -4,7 +4,7 @@ Learn@Home est une plateforme permettant de mettre en relation des enfants/étud
 
 Les besoins du client ont été fournis à part. La documentation GitHub se trouve ici. 
 
-La maquette a été intégralement réalisée sur Figma et est diponible ici. 
+La maquette a été intégralement réalisée sur Figma et est diponible [ici](https://www.figma.com/file/xqeE1ZKlHUWi2Efo8r73NK/UI-Design-Les-Petits-Plats-FR). 
 
 ## Liens nécessaires 
 
