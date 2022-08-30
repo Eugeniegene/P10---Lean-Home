@@ -8,8 +8,7 @@ La maquette a été intégralement réalisée sur Figma et est diponible ici.
 
 ## Liens nécessaires 
 
-- Maquette Figma 
-- Repository 
+- [Maquette Figma](https://www.figma.com/file/xqeE1ZKlHUWi2Efo8r73NK/UI-Design-Les-Petits-Plats-FR)
 - Kanban 
 - Documentation principale 
 - Documentation par pages : Connexion  -  Dashboard  -  Interface de Chat  -  Calendrier de l'élève  -  Gestionnaire de tâches 
