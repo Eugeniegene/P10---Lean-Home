@@ -2,13 +2,11 @@
 
 Learn@Home est une plateforme permettant de mettre en relation des enfants/étudiants en difficulté d'apprentissage avec des bénévoles qui pourront les accompagner. L'objectif de se projet est de se mettre dans la peau d'un chef de projet : il faut que la plateforme à venir corresponde au besoin des utilisateurs. 
 
-Les besoins du client ont été fournis à part. La documentation GitHub se trouve [ici](https://github.com/users/Eugeniegene/projects/1/views/1). 
+Les besoins du client ont été fournis à part. Le Kanban GitHub se trouve [ici](https://github.com/users/Eugeniegene/projects/1/views/1). 
 
 La maquette a été intégralement réalisée sur Figma et est diponible [ici](https://www.figma.com/file/xqeE1ZKlHUWi2Efo8r73NK/UI-Design-Les-Petits-Plats-FR). 
 
 ## Liens nécessaires 
 
 - [Maquette Figma](https://www.figma.com/file/xqeE1ZKlHUWi2Efo8r73NK/UI-Design-Les-Petits-Plats-FR)
-- Kanban 
-- Documentation principale 
-- Documentation par pages : Connexion  -  Dashboard  -  Interface de Chat  -  Calendrier de l'élève  -  Gestionnaire de tâches 
+- [Kanban](https://github.com/users/Eugeniegene/projects/1/views/1)
