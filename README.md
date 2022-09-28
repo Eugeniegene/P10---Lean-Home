@@ -10,6 +10,6 @@ La maquette a été intégralement réalisée sur Figma et est diponible [ici](h
 
 ## Liens nécessaires 
 
-- [Maquette Figma](https://www.figma.com/file/xqeE1ZKlHUWi2Efo8r73NK/UI-Design-Les-Petits-Plats-FR)
+- [Maquette Figma](https://www.figma.com/file/Wump3VGWVFq9FicSDPfLrV/Maquette-Learn%40Home?node-id=1%3A2)
 - [Kanban](https://github.com/users/Eugeniegene/projects/1/views/1)
 - [Documentation](https://github.com/Eugeniegene/P10-Learn-Home/wiki)
